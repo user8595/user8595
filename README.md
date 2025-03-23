@@ -7,4 +7,9 @@ trying to learn webdev stuff via nvim/termux
 the lsp is broken, i dont know why
 
 ---
-anyways is there something better than blogger? its the only blogsite that i know for now.
+
+~~anyways is there something better than blogger? its the only blogsite that i know for now.~~
+
+nevermind, already used github pages.
+
+[link to blogger site](https://user859.blogspot.com/)
