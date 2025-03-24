@@ -4,7 +4,7 @@ i'm an average person like you, making random stuff in my free time if i have.
 
 trying to learn webdev stuff via ~~nvim~~ helix/termux
 
-also has experience in graphic design, primarily use inkscape (v0.92.5).
+also has experience in graphic design, primarily use inkscape (v0.92.5, also i used other tools either, i.e. illustrator).
 
 ---
 
