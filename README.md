@@ -4,11 +4,7 @@ i'm an average person like you, making random stuff in my free time if i have.
 
 trying to learn webdev stuff via ~~nvim~~ helix/termux
 
-~~the lsp is broken, i dont know why~~
-
-~~even helix's lsp is probably broken, i guess this is android's side then~~
-
-found a solution for it, details in blog.
+also has experience in graphic design, primarily use inkscape (v0.92.5).
 
 ---
 
