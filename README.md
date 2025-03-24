@@ -12,4 +12,4 @@ also has experience in graphic design, primarily use inkscape (v0.92.5, also i u
 
 nevermind, already used github pages.
 
-[link to blogger site](https://user859.blogspot.com/)
+[link to secondary blogger site](https://user859.blogspot.com/)
