@@ -1,6 +1,6 @@
 hemlo there
 
-i'm an just an average person, making random stuff in my free time if i have.
+i'm just an average person, making random stuff in my free time if i have.
 
 trying to learn webdev stuff via ~~nvim~~ helix/termux
 
