@@ -1,6 +1,6 @@
 ## hemlo there
 
-i'm just an average person, making random stuff in my free time if i have.
+I'm just an average person, making random stuff in my free time if i have.
 
 ### What i'm doing
 
