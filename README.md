@@ -2,15 +2,11 @@
 
 I'm just an average person, making random stuff in my free time if i have.
 
-### What i'm doing
+### Interests
 
-- Trying to learn webdev stuff primarily via nvim/termux
-- 3D Modelling as a whole with Blender
-- Has experience in graphic design, primarily use Inkscape, also used other tools either, i.e. Illustrator).
-
-### Links
-
-[Link to secondary blogger site](https://user859.blogspot.com/)
+- Learning interesting webdev stuff
+- 3D Modelling using Blender
+- Making interesting design works
 
 <a href="https://inkscape.org/"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" alt="Inkscape"></a>
 <a href="https://en.m.wikipedia.org/wiki/Adobe_Illustrator"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"></a>
