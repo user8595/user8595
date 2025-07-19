@@ -5,7 +5,7 @@ I'm just an average person, making random stuff in my free time if i have.
 ### Interests
 
 - Learning interesting webdev stuff
-- 3D Modelling using Blender
+- 3D Modelling using Blender (still on a beginner level)
 - Making interesting design works
 
 <a href="https://inkscape.org/"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" alt="Inkscape"></a>
