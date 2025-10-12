@@ -1,5 +1,3 @@
-### hemlo there
-
 I'm just an average person, making random stuff in my free time if i have.
 
 <a href="https://inkscape.org/"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" alt="Inkscape"></a>
