@@ -1,6 +1,6 @@
 <br>
 <br>
-<a href="https://user8595.github.io/swoon/"><img src="./swoon.png" alt="swoon" width="350"></a>
+<a href="https://user8595.github.io/swoon/"><img src="./swoon.png" alt="swoon" width="279"></a>
 <br>
 <br>
 <br>
