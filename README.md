@@ -1,4 +1,4 @@
-<a href="https://user8595.github.io/swoon/"><img src="./swoon.png" alt="swoon" width="256"></a>
+<a href="https://user8595.github.io/swoon/"><img src="./swoon.png" alt="swoon" width="384"></a>
 <br>
 <br>
 <a href="https://inkscape.org/"><img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" alt="Inkscape"></a>
