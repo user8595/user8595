@@ -1,5 +1,5 @@
 <br>
-<img src="./dedlta.png">
+<img src="./dedlta.png" alt="the ?!?! gang">
 <br>
 
 ---
