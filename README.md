@@ -15,5 +15,5 @@
 
 
 
-<a href="https://user8595.github.io/swoon/"><img src="./swoon.png" alt="swoon" width="128"></a>
+<a href="https://user8595.github.io/swoon/"><img src="./swoon.png" alt="swoon" width="168"></a>
 <a href="https://github.com/user8595/user8595/tree/main/misc"><img src="./folder.png" alt="misc folder" width="32" align="right"></a>
