@@ -1,7 +1,5 @@
 <img src="./dedlta.png" alt="the ?!?! gang">
 
----
-
 <a href=https://inkscape.org/><img src="https://img.shields.io/badge/inkscape-%231e1e2e?style=for-the-badge&logo=Inkscape&logoColor=%231e1e2e&labelColor=%23cdd6f4" alt="Inkscape"><a>
 <a href=https://www.blender.org/><img src="https://img.shields.io/badge/Blender-1e1e2e?style=for-the-badge&logo=blender&logoColor=%231e1e2e&labelColor=%23e87d0d" alt="Blender"></a>
 <a href="https://en.m.wikipedia.org/wiki/Adobe_Illustrator"><img src="https://img.shields.io/badge/Adobe_Illustrator-%23fab387?style=for-the-badge&logoColor=%231e1e2e" alt="Adobe Illustrator"></a>
