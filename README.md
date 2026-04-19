@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/JavaScript-%231e1e2e?style=for-the-badge&logo=javascript&logoColor=%231e1e2e&labelColor=%23f9e2af" alt="JavaScript">
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%231e1e2e?style=for-the-badge&logo=python&logoColor=%231e1e2e&labelColor=%23fab387" alt="Python, somewhat"></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-%231e1e2e?style=for-the-badge&logo=lua&logoColor=%231e1e2e&labelColor=%2389b4fa" alt="Lua"></a>
-<a href=https://love2d.org/><img src="https://img.shields.io/badge/L%C3%96VE-%23f5c2e7?style=for-the-badge&logoColor=%23f5c2e7" alt="LÖVE"></a>
+<a href=https://love2d.org/><img src="https://img.shields.io/badge/L%C3%96VE2D-%23f5c2e7?style=for-the-badge&logoColor=%23f5c2e7" alt="LÖVE2D"></a>
 
 <a href="https://user8595.github.io/swoon/"><img src="./swoon.png" alt="swoon" width="168"></a>
 <a href="https://github.com/user8595/user8595/tree/main/misc"><img src="./folder.png" alt="misc folder" width="32" align="right"></a>
