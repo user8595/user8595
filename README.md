@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/HTML-%231e1e2e?style=for-the-badge&logo=html5&logoColor=%231e1e2e&labelColor=%2389b4fa" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-%231e1e2e?style=for-the-badge&logo=css&logoColor=%231e1e2e&labelColor=%23cba6f7" alt="CSS">
 <img src="https://img.shields.io/badge/JavaScript-%231e1e2e?style=for-the-badge&logo=javascript&logoColor=%231e1e2e&labelColor=%23f9e2af" alt="JavaScript">
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%231e1e2e?style=for-the-badge&logo=python&logoColor=%231e1e2e&labelColor=%23fab387" alt="Python, somewhat"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%231e1e2e?style=for-the-badge&logo=python&logoColor=%231e1e2e&labelColor=%23fab387" alt="Python"></a>
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-%231e1e2e?style=for-the-badge&logo=lua&logoColor=%231e1e2e&labelColor=%2389b4fa" alt="Lua"></a>
 <a href=https://love2d.org/><img src="https://img.shields.io/badge/L%C3%96VE2D-%23f5c2e7?style=for-the-badge&logoColor=%23f5c2e7" alt="LÖVE2D"></a>
 
