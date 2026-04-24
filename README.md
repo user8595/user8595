@@ -1,6 +1,7 @@
 <img src="./clouds-crop.png" alt="clouds">
 
 <a href=https://inkscape.org/><img src="https://img.shields.io/badge/inkscape-%231e1e2e?style=for-the-badge&logo=Inkscape&logoColor=%231e1e2e&labelColor=%23cdd6f4" alt="Inkscape"><a>
+<a href=https://www.aseprite.org/><img src="https://img.shields.io/badge/aseprite-%231e1e2e?style=for-the-badge&logo=Aseprite&logoColor=%231e1e2e&labelColor=%23fab387" alt="Aseprite"><a>
 <a href=https://www.blender.org/><img src="https://img.shields.io/badge/Blender-1e1e2e?style=for-the-badge&logo=blender&logoColor=%231e1e2e&labelColor=%23e87d0d" alt="Blender"></a>
 <a href="https://en.m.wikipedia.org/wiki/Adobe_Illustrator"><img src="https://img.shields.io/badge/Adobe_Illustrator-%23fab387?style=for-the-badge&logoColor=%231e1e2e" alt="Adobe Illustrator"></a>
 <br>
@@ -15,5 +16,6 @@
 <a href="https://www.lua.org/"><img src="https://img.shields.io/badge/Lua-%231e1e2e?style=for-the-badge&logo=lua&logoColor=%231e1e2e&labelColor=%2389b4fa" alt="Lua"></a>
 <a href=https://love2d.org/><img src="https://img.shields.io/badge/L%C3%96VE2D-%23f5c2e7?style=for-the-badge&logoColor=%23f5c2e7" alt="LÖVE2D"></a>
 
+<a href="https://www.getpaint.net/"><img src="./11067286.png" alt="paint.net" width=32 align="left"></a>
 <a href="https://user8595.github.io/swoon/"><img src="./swoon.png" alt="swoon" width="168"></a>
 <a href="https://github.com/user8595/user8595/tree/main/misc"><img src="./folder.png" alt="misc folder" width="32" align="right"></a>
