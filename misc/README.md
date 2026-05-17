@@ -11,4 +11,4 @@ Some files not related to the profile, only used as a backup
 > - [rx-dv3.wsz](./rx-dv3.wsz)
 > - [Shutters.webp](./Shutters.webp)
 >
-> All rights to original creators.
+> All rights to the original respective creators.
