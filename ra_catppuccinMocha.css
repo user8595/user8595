@@ -1,0 +1,77 @@
+@-moz-document domain("retroachievements.org") {
+/*Catppuccin Mocha - RetroAchievments.org*/
+/* WIP Catppuccin Mocha theme for RA */
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    --bg-color: rgb(30, 30, 46);
+    --box-bg-color: rgb(24, 24, 37);
+    --embed-color: rgb(17, 17, 27);
+    --box-shadow-color: rgb(17, 17, 27);
+    --embed-highlight-color: rgb(24, 24, 37);
+    --menu-link-color: rgb(166, 173, 200);
+    --menu-link-hover-color: rgb(205, 214, 244);
+    --text-color: rgb(205, 214, 244);
+    --heading-color: rgb(205, 214, 244);
+    --text-color-danger: rgb(243, 139, 168);
+    --text-color-muted: rgb(88, 91, 112);
+    --divider-color: rgb(69, 71, 90);
+}
+
+body {
+    font-family: "Atkinson Hyperlegible", sans-serif;
+}
+
+.p-2:not(.group):not(.align-top):not(td):not(.relative):not(.gap-4):not(.border-transparent):not(li):not(.text-menu-link),
+.py-2:not(.group):not(.align-top):not(td),
+.gap-y-2:not(.nicebox):not(.w-full):not(.items-center) {
+    border: 2px solid rgba(243, 139, 168, 0.35);
+    margin: 4px 0px 4px 0px
+}
+
+.p-2:not(.group):not(.align-top):not(td):not(.relative):not(.gap-4):not(.border-transparent):not(li):hover,
+.py-2:not(.group):not(.align-top):not(td):hover,
+.gap-y-2:not(.nicebox):not(.w-full):not(.items-center):hover,
+.bg-embed-highlight {
+    border: 2px solid rgba(243, 139, 168, 1);
+}
+
+.flex-col {
+    border-radius: 6px;
+}
+
+.py-0 {
+    padding: 2px 6px 2px 6px;
+}
+
+.pt-2,
+.pt-4,
+.items-center,
+.font-medium,
+.mb-2 {
+    border: none;
+}
+
+.pt-2:hover,
+.pt-4:hover,
+.items-center:hover,
+.font-medium:hover,
+.mb-2:hover {
+    border: none
+}
+
+.gap-y-2 {
+    margin: 7px auto 7px auto;
+}
+
+.bg-box-bg {
+    margin: 1% 0 1.5% 0;
+    padding: 1.35%;
+    border: none;
+}
+
+.bg-box-bg:hover {
+    border: none;
+}
+}
