@@ -23,17 +23,19 @@ body {
     font-family: "Atkinson Hyperlegible", sans-serif;
 }
 
-.p-2:not(.group):not(.align-top):not(td):not(.relative):not(.gap-4):not(.border-transparent):not(li):not(.text-menu-link),
-.py-2:not(.group):not(.align-top):not(td),
-.gap-y-2:not(.nicebox):not(.w-full):not(.items-center) {
+.p-2:not(.group):not(.align-top):not(td):not(.relative):not(.gap-4):not(.border-transparent):not(li):not(.text-menu-link):not(.tooltip-body):not(.gap-3),
+.py-2:not(.group):not(.align-top):not(.w-full):not(.bg-embed-highlight):not(td),
+.gap-y-2:not(.nicebox):not(.w-full):not(.items-center),
+.px-2:not(.rounded-sm):not(.bg-transparent):not(.cursor-help):not(.text-text):not(.cell) {
     border: 2px solid rgba(243, 139, 168, 0.35);
     margin: 4px 0px 4px 0px
 }
 
-.p-2:not(.group):not(.align-top):not(td):not(.relative):not(.gap-4):not(.border-transparent):not(li):hover,
-.py-2:not(.group):not(.align-top):not(td):hover,
+.p-2:not(.group):not(.align-top):not(td):not(.relative):not(.gap-4):not(.border-transparent):not(li):not(.tooltip-body):not(.gap-3):hover,
+.py-2:not(.group):not(.align-top):not(.w-full):not(.bg-embed-highlight):not(td):hover,
 .gap-y-2:not(.nicebox):not(.w-full):not(.items-center):hover,
-.bg-embed-highlight {
+.bg-embed-highlight:not(.px-1),
+.px-2:hover:not(.rounded-sm):not(.cursor-help):not(.text-text):not(.cell) {
     border: 2px solid rgba(243, 139, 168, 1);
 }
 
@@ -73,5 +75,13 @@ body {
 
 .bg-box-bg:hover {
     border: none;
+}
+
+.gap-3:not(.w-full):not(.flex-col), .bg-transparent {
+    border: 2px solid rgba(243, 139, 168, 0);
+    transition-duration: 0.1s
+}
+.gap-3:hover:.not(.w-full):not(.flex-col) {
+    border: 2px solid rgba(243, 139, 168, 1);
 }
 }
