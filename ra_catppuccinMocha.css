@@ -77,11 +77,11 @@ body {
     border: none;
 }
 
-.gap-3:not(.w-full):not(.flex-col), .bg-transparent:not(.text-xs) {
+.gap-3:not(.w-full):not(.flex-col):not(.items-center), .bg-transparent:not(.text-xs) {
     border: 2px solid rgba(243, 139, 168, 0);
     transition-duration: 0.1s
 }
-.gap-3:hover:not(.w-full):not(.flex-col) {
+.gap-3:hover:not(.w-full):not(.items-center):not(.flex-col) {
     border: 2px solid rgba(243, 139, 168, 1);
 }
 }
